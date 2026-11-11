@@ -1,1 +1,2 @@
-
+- TLCP_Lab_guarded 为国密TLCP本地交互程序
+- dat为授权文件
